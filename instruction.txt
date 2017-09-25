@@ -1,5 +1,5 @@
 Необходимо установить:
-1. MySQL Server (делал на 5.17.1log)
+1. MySQL Server (делал на 5.7.17log)
 2. Apache Tomcat (делал на 9.0.0.M20)
 3. JDK 8
 4. Apache Maven (3.3.9)
